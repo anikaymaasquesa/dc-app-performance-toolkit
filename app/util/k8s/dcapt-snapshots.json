@@ -163,7 +163,7 @@
             "size": "small",
             "snapshots": [
               {
-                "us-east-2": "arn:aws:rds:us-east-2:585036043680:snapshot:dcapt-jsm-small-5-12-8",
+                "us-east-2": "arn:aws:rds:us-east-2:585036043680:snapshot:dcapt-jsm-small-5-12-8-fixed",
                 "us-east-1": "arn:aws:rds:us-east-1:585036043680:snapshot:dcapt-jsm-small-5-12-8"
               }
             ]
